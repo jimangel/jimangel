@@ -12,7 +12,7 @@ I'm Jim Angel. I love solving problems and working with incredible people! The f
 * Called out k8s dashboard issues before it was cool 🙃 - [#3012](https://github.com/kubernetes/dashboard/issues/3012)
 * Helped write the guide for how to lead documentation release cycles - [release-team/role-handbooks/docs](https://github.com/kubernetes/sig-release/tree/master/release-team/role-handbooks/docs)
 
-## GitHub / Side projects
+## Side projects
 
 * Open sourced a way to learn more about "production" Kubernetes (w/ Cilium)
     * https://github.com/jimangel/kubernetes-the-easy-way
@@ -28,7 +28,7 @@ I'm Jim Angel. I love solving problems and working with incredible people! The f
     * https://github.com/jimangel/docsy-gcs-buckets
     * https://github.com/jimangel/docsy-cloud-run
 
-## Published Blogs
+## Published blogs
 
 * [Pod Security Graduates to Beta](https://kubernetes.io/blog/2021/12/09/pod-security-admission-beta/) (12/09/2021)
 * [Kubernetes Security best practices](https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/) (10/05/2021)
@@ -39,7 +39,7 @@ I'm Jim Angel. I love solving problems and working with incredible people! The f
 * Presented at an internal conference to an audience of 800+ around contributing to OSS Kubernetes and general Kubernetes literacy
 * Host and maintain the local [Austin Kubernetes Meetup](https://community.cncf.io/kubernetes-austin/)
 
-## Personal Blog
+## Personal blog
 
 * Testing upstream Kubernetes on a Raspberry Pi cluster
     * https://jimangel.io/post/upstream-kubernetes-on-pi/
