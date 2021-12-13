@@ -4,7 +4,7 @@ I'm Jim Angel. I love solving problems and working with incredible people! The f
 
 ## Contributions to open source
 
-* Designed the official "Release Info" page for OSS Kubernetes (k8s.io/releases) - [#27929](https://github.com/kubernetes/website/pull/27929)
+* Designed the official "Release Info" page for OSS Kubernetes ([k8s.io/releases](https://kubernetes.io/releases)) - [#27929](https://github.com/kubernetes/website/pull/27929)
 * Improved ([kubernetes.io](https://kubernetes.io/)) website build times by 80% - [#29504](https://github.com/kubernetes/website/pull/29504)
 * Added the ability to support diagrams as markdown (MermaidJS) - [#20434](https://github.com/kubernetes/website/pull/20434)
 * Improved k8s DNS security by adding CAA records - [#1849](https://github.com/kubernetes/k8s.io/pull/1849)
