@@ -4,20 +4,13 @@ I'm Jim Angel. I love solving problems and working with incredible people! The f
 
 ## Contributions to open source
 
-* Designed the official "Release Info" page for OSS Kubernetes (k8s.io/releases)
-    * https://github.com/kubernetes/website/pull/27929
-* Improved website build times by 80%
-    * https://github.com/kubernetes/website/pull/29504
-* Added the ability to support diagrams as markdown (MermaidJS)
-    * https://github.com/kubernetes/website/pull/20434
-* Improved k8s DNS security by adding CAA records
-    * https://github.com/kubernetes/k8s.io/pull/1849
-* Automated a page with version skew information (preventing toil each release)
-    * https://github.com/kubernetes/website/pull/20369
-* Called out k8s dashboard issues before it was cool 🙃
-    * https://github.com/kubernetes/dashboard/issues/3012
-* Helped write the guide for how to lead documentation release cycles
-    * https://github.com/kubernetes/sig-release/tree/master/release-team/role-handbooks/docs
+* Designed the official "Release Info" page for OSS Kubernetes (k8s.io/releases) - [#27929](https://github.com/kubernetes/website/pull/27929)
+* Improved website build times by 80% - [#29504](https://github.com/kubernetes/website/pull/29504)
+* Added the ability to support diagrams as markdown (MermaidJS) - [#20434](https://github.com/kubernetes/website/pull/20434)
+* Improved k8s DNS security by adding CAA records - [#1849](https://github.com/kubernetes/k8s.io/pull/1849)
+* Automated a page with version skew information (preventing toil each release) - [#20369](https://github.com/kubernetes/website/pull/20369)
+* Called out k8s dashboard issues before it was cool 🙃 - [#3012](https://github.com/kubernetes/dashboard/issues/3012)
+* Helped write the guide for how to lead documentation release cycles - [release-team/role-handbooks/docs](https://github.com/kubernetes/sig-release/tree/master/release-team/role-handbooks/docs)
 
 ## GitHub / Side projects
 
@@ -37,16 +30,12 @@ I'm Jim Angel. I love solving problems and working with incredible people! The f
 
 ## Published Blogs
 
- * Pod Security Graduates to Beta (12/09/2021)
-    * https://kubernetes.io/blog/2021/12/09/pod-security-admission-beta/
-* Kubernetes Security best practices (10/05/2021)
-    * https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/
+* [Pod Security Graduates to Beta](https://kubernetes.io/blog/2021/12/09/pod-security-admission-beta/) (12/09/2021)
+* [Kubernetes Security best practices](https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/) (10/05/2021)
 
 ## Talks
 
-* Spoke at KubeCon NA 2021 about how Kubernetes OSS website serves 1.3M users monthly and let's anyone contribute
-    * https://www.youtube.com/watch?v=GDfcBF5et3Q
-    * [slides](https://static.sched.com/hosted_files/kccncna2021/c2/kubecon-2021-SIG-Docs-Deep-Dive-Final.pdf)
+* Spoke at KubeCon NA 2021 about how Kubernetes OSS website serves 1.3M users monthly and let's anyone contribute ([video](https://www.youtube.com/watch?v=GDfcBF5et3Q) / [slides](https://static.sched.com/hosted_files/kccncna2021/c2/kubecon-2021-SIG-Docs-Deep-Dive-Final.pdf))
 * Presented at an internal conference to an audience of 800+ around contributing to OSS Kubernetes and general Kubernetes literacy
 * Host and maintain the local [Austin Kubernetes Meetup](https://community.cncf.io/kubernetes-austin/)
 
