@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! 👋
 
 I'm Jim Angel. I love solving problems and working with incredible people! The following highlights some of my OSS accomplishments and hobbies.
 
