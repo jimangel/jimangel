@@ -20,7 +20,7 @@ I'm Jim Angel. I love solving problems and working with incredible people! The f
     * https://github.com/jimangel/GitDocs
 * Designed a solution for using an iPad as the terminal for a GCE VM (developer machine)
     * https://github.com/jimangel/Terraform-iPad-VM
-* Build a one-page, data driven, template for static sites
+* Built a one-page, data driven, template for static sites
     * https://github.com/jimangel/hugo-bootstrap-one-page-demo
 * Designed a "in between dev and prod" Kubernetes installer
     * https://github.com/jimangel/kubeleak
