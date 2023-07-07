@@ -6,6 +6,7 @@ I'm Jim Angel. I love solving problems and working with incredible people! The f
 
 * Designed the official "Release Info" page for OSS Kubernetes ([k8s.io/releases](https://kubernetes.io/releases)) - [#27929](https://github.com/kubernetes/website/pull/27929)
 * Improved ([kubernetes.io](https://kubernetes.io/)) website build times by 80% - [#29504](https://github.com/kubernetes/website/pull/29504)
+* Wrote a guide for testing Kubernetes auditing on kind ([kind.sigs.k8s.io/docs/user/auditing](https://kind.sigs.k8s.io/docs/user/auditing/)) - [#2431](https://github.com/kubernetes-sigs/kind/pull/2431)
 * Added the ability to support diagrams as markdown (MermaidJS) - [#20434](https://github.com/kubernetes/website/pull/20434)
 * Improved k8s DNS security by adding CAA records - [#1849](https://github.com/kubernetes/k8s.io/pull/1849)
 * Automated a page with version skew information (preventing toil each release) - [#20369](https://github.com/kubernetes/website/pull/20369)
